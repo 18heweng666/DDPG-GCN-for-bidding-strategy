@@ -1,5 +1,8 @@
-# DDPG-GCN for bidding strategy
-This project is the source code of paper "Optimizing bidding strategy in electricity market based on graph convolutional neural network and deep reinforcement learning". It has been accepted by Applied Energy 2024. 
+![image](https://github.com/user-attachments/assets/01c33bc7-dc2e-4a34-8501-9f544ecfbaaa)
+
+# DDPG-GCN
+This project is the source code of paper "Optimizing bidding strategy in electricity market based on graph convolutional neural network and deep reinforcement learning". It has been accepted by Applied Energy 2025. https://doi.org/10.1016/j.apenergy.2024.124978
+ 
 
 ## Dependencies
 
